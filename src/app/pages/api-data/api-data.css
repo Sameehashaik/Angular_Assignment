@@ -1,0 +1,23 @@
+ul {
+  list-style-type: none;
+  padding: 0;
+  max-width: 700px;
+  margin: 20px auto;
+}
+
+li {
+  padding: 15px;
+  border: 1px solid #ddd;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  background-color: #fdfdfd;
+}
+
+strong {
+  font-size: 1.1em;
+  color: #333;
+}
+
+p {
+  color: #666;
+}
