@@ -9,6 +9,9 @@
     "test": "ng test",
     "serve:ssr:angular_app": "node dist/angular_app/server/server.mjs"
   },
+  "engines": {
+    "node": ">=18 <23"
+  },
   "prettier": {
     "overrides": [
       {
